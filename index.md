@@ -1,3 +1,3 @@
 foo
 
-[bar](resources/zotero.md)
+[bar](resources/zotero/zotero.md)
